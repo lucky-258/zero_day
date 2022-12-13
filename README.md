@@ -1,2 +1,2 @@
 # zero_day
-Vagrant optional alx project
+This is project is mandatory in projects
